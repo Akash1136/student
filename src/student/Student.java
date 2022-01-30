@@ -6,7 +6,7 @@ this is a comment
 package Student;
 public class Student{
     
-    private String studentId;
+    String studentId;
     private String studentName;
     private String address;
     
